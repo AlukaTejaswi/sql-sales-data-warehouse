@@ -44,38 +44,23 @@ The database consists of **12 relational tables** including customer, product, c
 
 # 4. Key Insights
 
-- Customer contribution analysis revealed that a limited number of high-value customers generate a large share of sales, highlighting the importance of customer retention strategies.
-
-- Retention analysis identified differences in repeat purchase behaviour, creating opportunities to explore why some regions build stronger long-term customer relationships than others.
-
-- Product analysis uncovered products with high sales volume but lower profitability, showing the need to balance revenue generation with profit optimization.
-
-- Category and sub-category analysis revealed the key product groups responsible for business growth and areas where additional investment could generate higher returns.
-
-- Profit analysis identified loss-making products where discounts, pricing, or operational costs may be impacting profitability.
-
-- Return analysis highlighted categories, products, and customer segments with higher return rates, creating opportunities to investigate quality, delivery, or customer expectation issues.
-
-- Shipping analysis revealed differences in delivery speed and performance between shipping modes, helping identify opportunities to improve operational efficiency.
-
-- Regional analysis identified high-performing and underperforming regions, creating curiosity around what factors drive success in specific markets.
-
-- Product contribution analysis showed revenue concentration among top products, highlighting potential risks and opportunities for product portfolio management.
-
-- Sales trend analysis uncovered monthly and yearly growth patterns, seasonal behaviour, and performance shifts that can support better forecasting and planning.
+- West region contributes **$725,457.82 (31.58%)**, East contributes **$678,781.24 (29.55%)**, Central contributes **$501,239.89 (21.82%)**, and South contributes **$391,721.91 (17.05%)**, showing strong revenue concentration in West and East regions.
+- **8** products generate high sales (>10,000) but result in negative profit, indicating pricing inefficiencies and discount-driven losses.
+- Total revenue is **$2,297,200.86**, with the top product contributing **$61,599.82 (2.68%)**, and the top 10 products together contributing only ~10.65% of total revenue, showing a moderately diversified product base.
+- A total of **301 products are loss-making** (profit < 0), indicating a significant portion of the catalog is impacting overall profitability negatively.
+- Sales show strong seasonality, with peak performance in **November ($359,209.40)** and **December ($327,338.19)**, and lowest performance in **February ($61,026.26)**.
+- Standard shipping dominates with **59.72%** of total orders, but has the highest average delivery time of 164 days, compared to faster modes ranging between 114–146 days.
+- Top individual products such as **Product 1375 ($61,599.82)** and **Product 452 ($27,453.38)** contribute the highest revenue, but no single product dominates overall revenue share significantly
 
 ---
 
 # 5. Business Impact
 
-- Identified high-performing customers, products, categories, and regions, helping businesses focus sales and marketing efforts on areas with the highest revenue potential.
-
-- Improved customer retention strategies by identifying repeat customers, high-value customers, and customer segments that require targeted engagement to increase customer lifetime value.
-
-- Improved profitability by analysing product-level and category-level profit performance, helping businesses optimize pricing, discounts, and product strategies.
-
-- Reduced financial losses by identifying products, categories, and customer segments with high return rates and highlighting areas for improvement in quality and operations.
-
-- Improved operational efficiency by analysing shipping performance, delivery times, and shipping modes to support better logistics and customer experience decisions.
-
-- Enabled data-driven decision-making by analysing sales trends, regional performance, and growth patterns to support forecasting, planning, and future business strategies.
+- Enables data-driven decision-making by providing a centralized sales data warehouse, reducing dependency on manual Excel reporting and improving reporting accuracy and speed.
+- Helps identify high-value customers contributing the majority of revenue, allowing businesses to design targeted retention strategies and increase customer lifetime value.
+- Supports profit optimization by detecting loss-making and low-margin products, enabling pricing adjustments, discount control, and cost reduction strategies.
+- Improves regional sales strategy by highlighting high and low-performing regions, allowing better allocation of marketing budget, inventory, and sales efforts.
+- Enhances product portfolio management by identifying revenue concentration and underperforming products, helping businesses focus on high-impact SKUs and reduce catalog inefficiencies.
+- Improves operational efficiency by analyzing shipping performance, enabling logistics optimization, faster delivery planning, and better customer satisfaction.
+- Supports seasonal demand forecasting by identifying monthly sales trends, helping businesses optimize inventory planning and promotional campaigns.
+- Reduces revenue leakage by uncovering high-sales but low-profit products impacted by discounting strategies, enabling more balanced pricing decisions.
