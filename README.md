@@ -1,4 +1,4 @@
-# SQL Sales Data Warehouse & Business Analytics Project
+# SQL Sales Data Warehouse & Business Analytics
 ---
 
 # 1. Objective
